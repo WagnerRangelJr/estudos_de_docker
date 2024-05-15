@@ -1,0 +1,1 @@
+teste imagem bind mounts

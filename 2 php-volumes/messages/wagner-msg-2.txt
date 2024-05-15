@@ -1,0 +1,1 @@
+teste docker bind mountatualizacao no projeto
